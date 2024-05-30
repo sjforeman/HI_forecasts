@@ -1,9 +1,9 @@
 # HI_forecasts
 
-This repository contains scripts to reproduce the 21cm intensity mapping forecasts in [https://arxiv.org/abs/YYYY.XXXXX](https://arxiv.org/abs/YYYY.XXXXX) (referred to as Foreman+ in the usage instructions below). These scripts require a special fork of FishLSS, available [here](https://github.com/sjforeman/FishLSS/tree/HI). They can be modified to generate forecasts for other 21cm surveys as well.
+This repository contains scripts to reproduce the 21cm intensity mapping forecasts in [https://arxiv.org/abs/2405.18559](https://arxiv.org/abs/2405.18559) (referred to as Foreman+ in the usage instructions below). These scripts require a special fork of FishLSS, available [here](https://github.com/sjforeman/FishLSS/tree/HI). They can be modified to generate forecasts for other 21cm surveys as well.
 
 If you use these scripts in your work, please cite the following papers:
-- Foreman, Obuljen, and Simonovic, "Improving cosmological analyses of HI clustering by reducing stochastic noise", [arXiv:YYYY.XXXXX](https://arxiv.org/abs/YYYY.XXXXX)
+- Foreman, Obuljen, and Simonovic, "Improving cosmological analyses of HI clustering by reducing stochastic noise", [arXiv:2405.18559](https://arxiv.org/abs/2405.18559)
 - Sailer et al., "Cosmology at high redshift - a probe of fundamental physics", JCAP12(2021)049, [arXiv:2106.09713](https://arxiv.org/abs/2106.09713)
 - Chen, Vlah, Castorina, and White, "Redshift-space distortions in Lagrangian perturbation theory", JCAP03(2021)100, [arXiv:2012.04636](https://arxiv.org/abs/2012.04636)
 - Chen, Vlah, and White, "Consistent Modeling of Velocity Statistics and Redshift-Space Distortions in One-Loop Perturbation Theory", JCAP07(2020)062, [arXiv:2005.00523](https://arxiv.org/abs/2005.00523)
